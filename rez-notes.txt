@@ -1,0 +1,6 @@
+BUILD NOTES
+npm init -y
+npm i express mongoose
+npm i -D nodemon dotenv
+add to package.json, "scripts": {  "dev": "nodemon server-1.js"  }
+add files .env, .gitignore (to .gitignore add: node_modules .env)

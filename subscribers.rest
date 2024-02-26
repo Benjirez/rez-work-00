@@ -1,0 +1,9 @@
+GET http://localhost:3000/subscribers
+###
+GET http://localhost:3000/subscribers/69
+###
+POST http://localhost:3000/subscribers
+###
+PATCH http://localhost:3000/subscribers/42
+###
+DELETE http://localhost:3000/subscribers/00
